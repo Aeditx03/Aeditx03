@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<div align="center" style="background-color: #262626; padding: 40px; border-radius: 10px;">
+<div align="center" style="background-color: #262626; padding: 20px; border-radius: 10px;">
     <img src="https://github.com/Aeditx03/Aeditx03/raw/main/assets/header.jpg" alt="Header Image" width="100%">
     <br><br>
     <h1 style="color: aqua; font-size: 36px; font-weight: bold;">👋 Hi, I'm Aeditx03</h1>
