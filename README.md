@@ -1,28 +1,64 @@
+<!-- Header Section -->
+<div align="center" style="background-color: #262626; padding: 40px; border-radius: 10px;">
+    <img src="https://github.com/Aeditx03/Aeditx03/raw/main/assets/header.png" alt="Header Image" width="200">
+    <br><br>
+    <h1 style="color: aqua; font-size: 36px; font-weight: bold;">👋 Hi, I'm Aeditx03</h1>
+    <p style="color: #a0a0a0; font-size: 18px;">Passionate Developer | Aspiring Innovator | Code Enthusiast</p>
+    <a href="https://www.instagram.com/avisekeditx">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@avisekeditx) 
+<!-- About Me Section -->
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aeditx03&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aeditx03&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aeditx03&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 👨‍💻 I'm a multi-lingual developer proficient in Python, Java, HTML, and Css.
+- 🌱 My first programming language was C, and I've been passionate about coding ever since.
+- 🔭 I'm constantly exploring new technologies and building exciting projects.
+- 💡 I believe in the power of technology to make the world a better place.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven't+Any+Open+Projects.;Saare+Paid+Hai+Bhai.;+Contact+Me+For+Bot+Repos+in+Low+Price+.)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Skills Section -->
+<!-- Skills Section -->
+## 🛠️ Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aeditx03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| Language/Tool | Proficiency |
+| -------------- | ----------- |
+| Python         | Intermediate |
+| Java           | Besics     |
+| HTML5          | Intermediate |
+| C              | First Lng.     |
+| VS Code        | Most Used sof.    |
+| css        | Advanced |
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Aeditx03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rayaviseek@ibl) 
+<!-- Projects Section -->
+## 🔥 Featured Projects
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [Project 1: Awesome Python Project](https://github.com/Aeditx03/awesome-python-project) - A description of your project goes here.
+- [Project 2: Java Masterpiece](https://github.com/Aeditx03/java-masterpiece) - Another exciting project you want to highlight.
+<!-- Social Media Section -->
+## 🌐 Social Media
+
+<div align="center">
+    <a href="https://www.instagram.com/avisekeditx">
+        <img src="https://img.shields.io/badge/Instagram-avisekeditx-%23E4405F?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram" style="font-weight:700;">
+    </a>
+    <a href="https://t.me/YourTelegramUsername">
+        <img src="https://img.shields.io/badge/Telegram-Biisal-%233498DB?style=for-the-badge&logo=telegram&labelColor=white" alt="Telegram">
+    </a>
+</div>
+
+<!-- GitHub Stats Section -->
+
+## 📈 GitHub Stats
+
+![Aeditx03's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aeditx03&show_icons=true&theme=radical)
+
+<!-- Footer Section -->
+## 📫 Let's Connect!
+
+Feel free to connect with me on [Instagram](https://www.instagram.com/avisekeditx). I'm always open to interesting conversations and collaboration opportunities!
+
+Thanks for visiting my GitHub profile! 😄
