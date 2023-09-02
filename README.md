@@ -2,7 +2,7 @@
 <div align="center" style="background-color: #262626; padding: 20px; border-radius: 10px;">
     <img src="https://github.com/Aeditx03/Aeditx03/raw/main/assets/header.jpg" alt="Header Image" width="100%">
     <br><br>
-    <h1 style="color: aqua; font-size: 36px; font-weight: bold;">👋 Hi, I'm Aeditx03</h1>
+    <h1 style="color: aqua; font-size: 36px; font-weight: bold;">👋 Hi, I'm Biisal</h1>
     <p style="color: #a0a0a0; font-size: 18px;">Passionate Developer | Aspiring Innovator | Code Enthusiast</p>
     <a href="https://www.instagram.com/avisekeditx">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
