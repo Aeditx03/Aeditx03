@@ -16,7 +16,8 @@
 - 🌱 My first programming language was C, and I've been passionate about coding ever since.
 - 🔭 I'm constantly exploring new technologies and building exciting projects.
 - 💡 I believe in the power of technology to make the world a better place.
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven't+Any+Open+Projects.;Saare+Paid+Hai+Bhai.;+Contact+Me+For+Bot+Repos+in+Low+Price+.)
+
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven't+Any+Open+Projects.;Saare+Paid+Hai+Bhai.;+Contact+Me+For+Bot+Repos+in+Low+Price+.)
 
 <!-- Skills Section -->
 <!-- Skills Section -->
@@ -45,7 +46,7 @@
     <a href="https://www.instagram.com/avisekeditx">
         <img src="https://img.shields.io/badge/Instagram-avisekeditx-%23E4405F?style=for-the-badge&logo=instagram&labelColor=white" alt="Instagram" style="font-weight:700;">
     </a>
-    <a href="https://t.me/YourTelegramUsername">
+    <a href="https://t.me/Biisal">
         <img src="https://img.shields.io/badge/Telegram-Biisal-%233498DB?style=for-the-badge&logo=telegram&labelColor=white" alt="Telegram">
     </a>
 </div>
@@ -59,6 +60,6 @@
 <!-- Footer Section -->
 ## 📫 Let's Connect!
 
-Feel free to connect with me on [Instagram](https://www.instagram.com/avisekeditx). I'm always open to interesting conversations and collaboration opportunities!
+Feel free to connect with me on [Biisal](https://t.me/biisal). I'm always open to interesting conversations and collaboration opportunities!
 
 Thanks for visiting my GitHub profile! 😄
