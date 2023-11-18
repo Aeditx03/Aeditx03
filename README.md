@@ -17,7 +17,7 @@
 - 🔭 I'm constantly exploring new technologies and building exciting projects.
 - 💡 I believe in the power of technology to make the world a better place.
 
-&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven't+Any+Open+Projects.;Saare+Paid+Hai+Bhai.;+Contact+Me+For+Bot+Repos+in+Low+Price+.)
+&nbsp;   &nbsp;  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+haven't+Any+Open+Projects.;.;+Contact+Me+For+Bot+Repos+in+Low+Price+.)
 
 <!-- Skills Section -->
 <!-- Skills Section -->
